@@ -1,4 +1,5 @@
 Air Quality Insights: Understanding Pollution and Its Impact
+
 📌 Overview
 This project aims to analyze real-time air quality data across various U.S. states and counties to uncover pollution trends, evaluate the most affected regions, and understand the impact of pollutants over time. It leverages data science tools in Python to conduct exploratory data analysis (EDA), visualize trends, and perform hypothesis testing.
 
